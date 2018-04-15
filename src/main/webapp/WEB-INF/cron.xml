@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+
+	<!-- 
+		<cron> <url>/abu_tri_arb</url> <schedule>every 1 minutes</schedule> </cron> 
+		<cron> <url>/bin_tri_arb</url> <schedule>every 1 minutes</schedule> </cron> 
+		<cron> <url>/live_tri_arb</url> <schedule>every 1 minutes</schedule> </cron> 
+		<cron> <url>/hitbtc_zigzag</url> <schedule>every 1 minutes</schedule> </cron> 
+	-->
+		
+		<cron> <url>/cex_tri_arb</url> <schedule>every 1 minutes</schedule> </cron> 
+		
+</cronentries>
