@@ -9,4 +9,4 @@ Narawart Liamin
 Wisarut Srisawet
 Wasan Santitara
 
-MIT License
+MIT License [wayOS](https://wayos.yiem.ai)
